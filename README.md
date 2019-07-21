@@ -30,12 +30,12 @@ Clone the repo.
 
 Run either of the main files:
 
-	```
-	src/iexbot.js
-	src/l33tbot.py
-	src/pingbot.py
-	src/pumpbot.py
-	```
+```
+src/iexbot.js
+src/l33tbot.py
+src/pingbot.py
+src/pumpbot.py
+```
 
 ## Authors
 
